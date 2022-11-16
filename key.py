@@ -50,3 +50,5 @@ def Encrypt(txt):
 
 txt = input("Enter the word here:  ")
 Encrypt(txt)
+
+#testing to see if it got uploaded
